@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite DataBase Demo</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="submit">Submit</string>
+    <string name="enter_city">Enter City</string>
+</resources>
